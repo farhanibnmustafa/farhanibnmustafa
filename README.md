@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Documentation Expert**, **Web Designer**, 
 - B.Sc in Software Engineering**: Deepening my understanding of software development, algorithms, and system design.
 
 ## 💼 What I do:
-- Documentation Expertise**: Creating clear, well-organized, and effective documentation for projects and systems.
+- **Documentation Expertise**: Creating clear, well-organized, and effective documentation for projects and systems.
 - **Head of Coordination Team**: Leading teams, organizing projects, and ensuring smooth collaboration for successful outcomes.
 - **System Development & Programming**: Skilled in **C**, **Java**, and **Python** for developing efficient systems and applications.
 - **Canva Design**: Crafting stunning designs for various needs, from social media to presentations.
