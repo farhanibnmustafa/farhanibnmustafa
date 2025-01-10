@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a **Documentation Expert**, **Web Designer**, and **Developer** with a passion for building efficient systems and creating engaging digital experiences. From system programming to UI/UX design, I'm dedicated to improving my skills and delivering quality work.
 
 🎓 **Currently Studying**:
-- B.Sc in Software Engineering**: Deepening my understanding of software development, algorithms, and system design.
+- **B.Sc in Software Engineering**: Deepening my understanding of software development, algorithms, and system design.
 
 ## 💼 What I do:
 - **Documentation Expertise**: Creating clear, well-organized, and effective documentation for projects and systems.
