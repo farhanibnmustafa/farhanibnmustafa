@@ -1,4 +1,4 @@
-Here's the updated **GitHub README** incorporating your academic background:
+
 
 ---
 
@@ -6,7 +6,7 @@ Here's the updated **GitHub README** incorporating your academic background:
 
 Welcome to my GitHub profile! I'm a **Documentation Expert**, **Web Designer**, and **Developer** with a passion for building efficient systems and creating engaging digital experiences. From system programming to UI/UX design, I'm dedicated to improving my skills and delivering quality work.
 
-🎓 Currently Studying:
+🎓 **Currently Studying**:
 - B.Sc in Software Engineering**: Deepening my understanding of software development, algorithms, and system design.
 
 ## 💼 What I do:
@@ -34,4 +34,4 @@ Let’s connect and create something amazing!
 
 ---
 
-This updated version includes your current academic journey and aligns with your professional and learning goals!
+
