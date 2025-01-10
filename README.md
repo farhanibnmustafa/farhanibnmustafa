@@ -22,8 +22,9 @@ Welcome to my GitHub profile! I'm a **Documentation Expert**, **Web Designer**, 
 - **WordPress**: Developing dynamic websites with ease using WordPress.
 
 ## 💞️ Open to collaboration on:
-- **Web Design & Development**: From UI/UX design to full-stack development, I’m eager to collaborate on exciting web projects.
+- **Web Design & Development**: I’m eager to collaborate on exciting projects.
 - **Documentation**: Helping teams create organized and effective documentation for their systems and processes.
+- **WordPress**: Developing dynamic websites with ease using WordPress.
 
 ## 📫 How to reach me:
 - 📧 Email: [farhanibnmustafa@gmail.com](mailto:farhanibnmustafa@gmail.com)
